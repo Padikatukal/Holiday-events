@@ -4,6 +4,6 @@ import java.io.*;
 public class Hello
 {
 	public static void main(String[] s) {
-		System.out.println("!!!!!");
+		System.out.println("Hello");
 	}
 }
